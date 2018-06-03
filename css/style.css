@@ -1,6 +1,8 @@
 .common_background{
     background-color: #9CC3FA;
 }
+.padding_left{
+	padding-left:0px}
 header{
     min-height: 100px;
     background-color: #9CC3FA;
